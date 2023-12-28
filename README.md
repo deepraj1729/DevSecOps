@@ -1,2 +1,2 @@
 # DevSecOps
-All in One repo for DevSecOps
+All in One repo about my journey in DevSecOps
